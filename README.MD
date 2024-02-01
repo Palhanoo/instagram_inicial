@@ -1,5 +1,12 @@
-Tela inicial do instagram feita no bootcamp da Digital Innovation One
+# Instagram Initial Screen
 
-Utilizando a biblioteca: https://github.com/VincentGarreau/particles.js/
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Feito por Palhano
+This was one of my first Front-end Projects, recreating the Instagram initial page
+
+## Usage
+
+```
+git clone git@github.com:Palhanoo/instagram_inicial.git
+```
+Simple drag the index.html file to a browser
